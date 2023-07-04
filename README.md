@@ -19,7 +19,7 @@
   <img align="center" alt="Sasa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <a href="https://cdn.discordapp.com/attachments/579804271097282561/1006335652276752394/gifsasa.gif" target="_blank"><img align="right" height="120" width="120"  src="https://cdn.discordapp.com/attachments/579804271097282561/1006335652276752394/gifsasa.gif" target="_blank"></a> 
+ <a href="https://cdn.discordapp.com/attachments/579804271097282561/1125921679630159892/Design_sem_nome_2.png" target="_blank"><img align="right" height="120" width="120"  src="https://cdn.discordapp.com/attachments/579804271097282561/1125921679630159892/Design_sem_nome_2.png" target="_blank"></a> 
 
 ##
  
